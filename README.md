@@ -14,7 +14,7 @@ This project was developed using the following environment:
 
 b) Download Dataset
 
-The Wi-Fi channel state information (CSI) dataset (available for download [here](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication) is detailed and utilized in paper entitled **Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach**, published in IEEE Transactions on Information Forensics and Security.
+The Wi-Fi channel state information (CSI) [dataset](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication) is detailed and utilized in paper entitled **Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach**, published in IEEE Transactions on Information Forensics and Security.
 
 The dataset is available for research purposes. We kindly request that any research or publications resulting from the use of this dataset include a citation to the aforementioned IEEE TIFS paper. Below is the corresponding BibTeX entry:
 ```bibtex
