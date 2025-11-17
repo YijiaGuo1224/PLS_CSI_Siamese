@@ -1,7 +1,7 @@
 # Data-Driven Physical Layer Authentication for Wi-Fi
 This project develops a deep learning-based physical layer authentication (PLA) scheme for mobile Wi-Fi devices, as detailed in the IEEE TIFS paper entitled **Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach**. Specifically, a synthetic training dataset is untilized, and a CNN-based Siamese network is adopted for device authentication.
 
-In the training stage, a synthetic dataset is used to train a Siamese network. In the test stage, the trained Siamese network is applied to experimental datasets for device authentication.
+In the training stage, a synthetic training dataset is used to train a Siamese network. In the test stage, the trained Siamese network is applied to experimental test datasets for device authentication.
 
 ## Requirements
 
