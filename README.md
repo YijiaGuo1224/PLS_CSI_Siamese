@@ -54,7 +54,7 @@ __II). If you simply want to test the Siamese networks instead of training your 
 
 1) Download the trained Siamese network
 
-    (i) The trained Siamese networks are available for download [here](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication), where the Siamese network trained with the synthetic dataset can be found in “model_synthetic.zip”, and the Siamese networks trained with experimental datasets can be found in “model_experiment.zip”.
+    (i) The trained Siamese networks are available for download [here](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication), where the Siamese network trained with the synthetic training dataset can be found in “model_synthetic.zip”, and the Siamese networks trained with experimental training datasets can be found in “model_experiment.zip”.
 
     (ii) Extract the downloaded Siamese networks and place them within the current project file.
 
