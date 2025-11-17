@@ -42,7 +42,7 @@ __I). If you want to train your own Siamese networks__
 
     (iii) Run 'main_syn_train.py' to train a Siamese network using the synthetic training dataset.
 
-    (iv) Run 'main_exp_train.py' to train Siamese networks using experimental training datasets collected in 4 typical Wi-Fi indoor scenarios.
+    (iv) Run 'main_exp_train.py' to train Siamese networks using experimental training datasets collected in four typical Wi-Fi indoor scenarios.
 
 2) Test Stage
 
