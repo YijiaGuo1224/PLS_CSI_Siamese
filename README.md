@@ -45,7 +45,7 @@ a) If you want to train your own Siamese networks
 
     (i) Run 'main_exp_test' to evaluate how the Siamese networks obtained from the above training stage perform on experimental test datasets.
 
-b) If you just want to test the Siamese networks instead of training your own ones
+b) If you simply want to test the Siamese networks instead of training your own ones
 
 1) Download the trained Siamese network
 
