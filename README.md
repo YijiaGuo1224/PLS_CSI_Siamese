@@ -13,7 +13,7 @@ This project was developed using the following environment:
 
 __II). Datasets__
 
-The Wi-Fi channel state information (CSI) dataset is available for download [here](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication). We kindly request that any research or publications resulting from the use of this dataset include a citation to the aforementioned IEEE TIFS paper. Below is the corresponding BibTeX entry:
+The Wi-Fi channel state information (CSI) dataset is available for download [here](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication), along with a ReadMe file that provides detailed information about the dataset. We kindly request that any research or publications resulting from the use of this dataset include a citation to the aforementioned IEEE TIFS paper. Below is the corresponding BibTeX entry:
 ```bibtex
 @ARTICLE{guo2025practical,
 author={Guo, Yijia and Zhang, Junqing and Hong, Y.-W. Peter},
