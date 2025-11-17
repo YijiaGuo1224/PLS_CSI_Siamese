@@ -40,15 +40,15 @@ __I). If you want to train your own Siamese networks__
 
     (ii) Creat two files named 'model_synthetic' and 'model_experiment' to store the corresponding trained Siamese networks.
 
-    (iii) Run 'main_syn_train' to train a Siamese network using the synthetic training dataset.
+    (iii) Run 'main_syn_train.py' to train a Siamese network using the synthetic training dataset.
 
-    (iv) Run 'main_exp_train' to train Siamese networks using experimental training datasets collected in 4 typical Wi-Fi indoor scenarios.
+    (iv) Run 'main_exp_train.py' to train Siamese networks using experimental training datasets collected in 4 typical Wi-Fi indoor scenarios.
 
 2) Test Stage
 
     (i) Extract the downloaded experimental test datasets, i.e., 'ExperimentalTestDataset.zip', and place it within the current project file.
 
-    (ii) Run 'main_exp_test' to evaluate how the Siamese networks obtained from the above training stage perform on experimental test datasets.
+    (ii) Run 'main_exp_test.py' to evaluate how the Siamese networks obtained from the above training stage perform on experimental test datasets.
 
 __II). If you simply want to test the Siamese networks instead of training your own ones__
 
@@ -62,7 +62,7 @@ __II). If you simply want to test the Siamese networks instead of training your 
 
     (i) Extract the downloaded experimental test datasets, i.e., 'ExperimentalTestDataset.zip', and place it within the current project file.
 
-    (i) Run 'main_exp_test' to evaluate the performance of the Siamese networks we provide on experimental test datasets.
+    (i) Run 'main_exp_test.py' to evaluate the performance of the Siamese networks we provide on experimental test datasets.
 
 ## Contact Information
 Please contact the following email addresses if you have any questions:
