@@ -26,7 +26,7 @@ pages={9305-9317}
 }
 ```
 
-The Wi-Fi CSI dataset contains both experimental and synthetic CSI datasets to evaluate the deep learning-based PLA approaches for mobile Wi-Fi devices. The experimental datasets were collected with two LoPy4 user stations and an ESP32 Wi-Fi receiver in four distinct indoor scenarios, containing detailed packet-level information. The synthetic dataset was generated using MATLAB WLAN Toolbox based on IEEE 802.11 TGn channel model, with controlled channel models, SNR levels, device moving speeds, and distances between transmitters.
+The Wi-Fi CSI dataset contains both synthetic and experimental CSI datasets to evaluate the deep learning-based PLA approaches for mobile Wi-Fi devices. The synthetic datasets were generated using MATLAB WLAN Toolbox based on IEEE 802.11 TGn channel model, with controlled channel models, SNR levels, device moving speeds, and distances between transmitters. The experimental datasets were collected with two LoPy4 user stations and an ESP32 Wi-Fi receiver in four distinct indoor scenarios, containing detailed packet-level information.
 
 It is worth noting that the experimental training datasets are used to compare against the synthetic training dataset to demonstrate the reliability of using synthetic data.
 
